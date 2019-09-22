@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1534503385 source:c:\users\bondhan\desktop\sajidsir\graphics.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+
+1534503385 source:d:\iubat\sajidsir\graphics.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+
+1534503385 source:e:\iubat\sajidsir\graphics.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+
